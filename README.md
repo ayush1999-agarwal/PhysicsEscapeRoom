@@ -1,2 +1,2 @@
 # PhysicsEscapeRoom
-This is an educational game which teaches  some basic physics concepts.
+Game Link: https://ayushagarwal.itch.io/physics-escape-room
